@@ -13,7 +13,7 @@
 - switch
 
 #### Schedule
-1. construct the base of the ferris wheel
+Week 1. construct the base of the ferris wheel
 
 
 
