@@ -14,7 +14,9 @@
 
 #### Schedule
 week 1 & 2: design the wheel, base, and stability pieces
+
 Week 3 & 4: design and refine gears, add in servo holder and breadboard
+
 Week 5 & 6: write code and set up wiring
 
 #### Ideas
