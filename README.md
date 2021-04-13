@@ -22,3 +22,6 @@ Week 5 & 6: write code and set up wiring
 #### Ideas
 - two trapezoial pieces will be upright on the front and back of the actual wheel
 - the piece on the back will have the circuit board attached to it; the one on the front will have cut outs in the middle to save material
+
+#### Schematics
+ ![gears](/fritzing_servo.PNG)
